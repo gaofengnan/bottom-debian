@@ -142,6 +142,8 @@ Installation via `cargo` can be done by installing the [`bottom`](https://crates
 
 ```bash
 # You might need to update the stable version of Rust first.
+
+> Fork of [dariogriffo/bottom-debian](https://github.com/dariogriffo/bottom-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
 # Other versions might work, but this is not guaranteed.
 rustup update stable
 
